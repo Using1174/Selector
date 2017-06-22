@@ -9,3 +9,7 @@ c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\D
 c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\Debug\Selector.MainForm.resources
 c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\bin\Debug\Newtonsoft.Json.dll
 c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\Debug\Selector.SqlEditForm.resources
+C:\Users\using.lei\Documents\Visual Studio 2013\Projects\Selector\Selector\bin\Debug\Selector.exe.manifest
+C:\Users\using.lei\Documents\Visual Studio 2013\Projects\Selector\Selector\bin\Debug\Selector.application
+C:\Users\using.lei\Documents\Visual Studio 2013\Projects\Selector\Selector\obj\Debug\Selector.exe.manifest
+C:\Users\using.lei\Documents\Visual Studio 2013\Projects\Selector\Selector\obj\Debug\Selector.application
