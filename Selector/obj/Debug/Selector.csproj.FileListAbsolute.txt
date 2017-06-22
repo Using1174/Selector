@@ -1,0 +1,11 @@
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\bin\Debug\Selector.exe.config
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\Debug\Selector.csprojResolveAssemblyReference.cache
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\Debug\Selector.Properties.Resources.resources
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\Debug\Selector.csproj.GenerateResource.Cache
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\bin\Debug\Selector.exe
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\bin\Debug\Selector.pdb
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\Debug\Selector.exe
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\Debug\Selector.pdb
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\Debug\Selector.MainForm.resources
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\bin\Debug\Newtonsoft.Json.dll
+c:\users\using.lei\documents\visual studio 2013\Projects\Selector\Selector\obj\Debug\Selector.SqlEditForm.resources

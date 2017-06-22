@@ -1,0 +1,24 @@
+{
+	dbConfigs: [{
+		serverName: "本地服务器",
+		server: "127.0.0.1",
+		port: 3306,
+		user: "root",
+		password: "using.lei",
+		defaultDB: "db_game_rh_0001"
+	}],
+	btnConfigs: [{
+		btnName: "查询数据库状态",
+		sql: "show global status;"
+	}, {
+		btnName: "查询所有表名",
+		sql: "show tables;"
+	}],
+	searchConfig: [{
+		sql: "SELECT m.Language_zh,i.* FROM `t_s_item` i LEFT JOIN t_s_multilanguage m ON i.`Name`=m.`Name` WHERE TemplateId like ?name or i.`Name` like ?name or m.Language_zh like ?name",
+		sqlName: ""
+	}, {
+		sql: "SELECT m.Language_zh,i.* FROM `t_s_item` i LEFT JOIN t_s_multilanguage m ON i.`Name`=m.`Name` WHERE TemplateId like ?name or i.`Name` like ?name or m.Language_zh like ?name",
+		sqlName: ""
+	}]
+}
